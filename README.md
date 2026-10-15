@@ -6,7 +6,7 @@ claude code mod that speed-reads claude's answers.
 
 ```bash
 claude plugin marketplace add boris-schwarz/read
-claude plugin install read@boris
+claude plugin install read@boris-schwarz
 ```
 
 Or in one go (Claude Code ≥ 2.1.292):
@@ -15,7 +15,7 @@ Or in one go (Claude Code ≥ 2.1.292):
 claude plugin install read --marketplace boris-schwarz/read
 ```
 
-Update later with `claude plugin update read@boris`.
+Update later with `claude plugin update read@boris-schwarz`.
 
 ## Develop
 
