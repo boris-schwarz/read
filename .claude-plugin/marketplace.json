@@ -1,0 +1,8 @@
+{
+  "name": "boris",
+  "description": "Boris Schwarz's Claude Code mods",
+  "owner": { "name": "Boris Schwarz" },
+  "plugins": [
+    { "name": "read", "source": "./" }
+  ]
+}

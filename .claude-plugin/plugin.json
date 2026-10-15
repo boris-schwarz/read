@@ -1,0 +1,9 @@
+{
+  "name": "read",
+  "version": "0.1.0",
+  "description": "Speed-read Claude's answers",
+  "author": { "name": "Boris Schwarz" },
+  "repository": "https://github.com/boris-schwarz/read",
+  "homepage": "https://github.com/boris-schwarz/read",
+  "license": "MIT"
+}
